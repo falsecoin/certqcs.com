@@ -1,0 +1,544 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,latin-ext
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,latin-ext
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\www.qcscert.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\www.qcscert.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+File Name: C:\Downloaded Web Sites\www.qcscert.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMQg.ttf
+File Name: C:\Downloaded Web Sites\www.qcscert.com\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMQg.ttf
+Content Type: font/ttf
+
+Uri: https://www.qcscert.com/
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=107&title=company-profile
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=108&title=our-policies
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=114&title=system-certification
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=115&title=product-certification
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=116&title=ce-marking
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-14.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=117&title=education
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=118&title=iso-90012015
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=119&title=iso-140012015
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=120&title=iso-220002018
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=121&title=iso-450012018
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=129&title=isots-16949
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=130&title=isoiec-27001
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=131&title=ifs
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=132&title=brc
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=142&title=gmp
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/?sec=page&id=87&title=certified-organisations
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index-16.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/arama_bes.htm
+File Name: C:\Downloaded Web Sites\www.qcscert.com\arama_bes.htm
+Content Type: text/html
+
+Uri: https://www.qcscert.com/calendar/css/master.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\calendar\css\master.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/calendar/images/calpad.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\calendar\images\calpad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/calendar/images/i-heart-ny-active.gif
+File Name: C:\Downloaded Web Sites\www.qcscert.com\calendar\images\i-heart-ny-active.gif
+Content Type: image/gif
+
+Uri: https://www.qcscert.com/calendar/js/coda.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\calendar\js\coda.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/css/nivo/arrows.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css (1)\nivo\arrows.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/css/nivo/bullets.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css (1)\nivo\bullets.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/css/nivo/default.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css (1)\nivo\default.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/css/nivo/loading.gif
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css (1)\nivo\loading.gif
+Content Type: image/gif
+
+Uri: https://www.qcscert.com/css/nivo/nivo-slider.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\css (1)\nivo\nivo-slider.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/images/slide/1491659268.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\images\slide\1491659268.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/images/slide/1491659904.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\images\slide\1491659904.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/images/slide/1491826028.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\images\slide\1491826028.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/index.php
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=107&title=company-profile
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-1.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=108&title=our-policies
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-2.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=114&title=system-certification
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-3.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=115&title=product-certification
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-13.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=116&title=ce-marking
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-14.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=117&title=education
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-15.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=118&title=iso-90012015
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-4.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=119&title=iso-140012015
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-5.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=120&title=iso-220002018
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-6.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=121&title=iso-450012018
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-7.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=129&title=isots-16949
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-8.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=130&title=isoiec-27001
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-9.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=131&title=ifs
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-10.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=132&title=brc
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-11.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=142&title=gmp
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-12.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/index.php?sec=page&id=87&title=certified-organisations
+File Name: C:\Downloaded Web Sites\www.qcscert.com\index.php-16.html
+Content Type: text/html
+
+Uri: https://www.qcscert.com/js/bxSlider4/images/bx_loader.gif
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\bxSlider4\images\bx_loader.gif
+Content Type: image/gif
+
+Uri: https://www.qcscert.com/js/bxSlider4/images/controls.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\bxSlider4\images\controls.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/bxSlider4/jquery.bxslider.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\bxSlider4\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/js/bxSlider4/jquery.bxslider.min.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\bxSlider4\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/ddsmoothmenu.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\ddsmoothmenu.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://www.qcscert.com/js/fancybox/fancybox-x.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\fancybox-x.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/fancybox/fancybox-y.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\fancybox-y.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/fancybox/fancybox.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\fancybox.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/fancybox/fancy_title_over.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\fancy_title_over.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/fancybox/jquery.fancybox-1.3.4.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\jquery.fancybox-1.3.4.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/js/fancybox/jquery.fancybox-1.3.4.pack.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\jquery.fancybox-1.3.4.pack.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/fancybox/jquery.mousewheel-3.0.4.pack.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\fancybox\jquery.mousewheel-3.0.4.pack.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jcarousel/jquery.jcarousel.min.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcarousel\jquery.jcarousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jcarousel/next-vertical.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcarousel\next-vertical.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/jcarousel/prev-vertical.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcarousel\prev-vertical.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/jcarousel/skin.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcarousel\skin.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/js/jcontent/img/arrows/carousel_next.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcontent\img\arrows\carousel_next.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/jcontent/img/arrows/carousel_prev.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcontent\img\arrows\carousel_prev.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/jcontent/jcontent.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcontent\jcontent.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/js/jcontent/jquery.easing.min.1.3.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcontent\jquery.easing.min.1.3.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jcontent/jquery.jcontent.0.8.min.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jcontent\jquery.jcontent.0.8.min.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jquery-1.8.2.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jquery-1.8.2.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jquery.dataTables.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jquery.dataTables.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jquery.validate.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/jquery.watermarkinput.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\jquery.watermarkinput.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/lemmon_slider/home_slider_arrows.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\lemmon_slider\home_slider_arrows.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/js/lemmon_slider/lemmon-slider.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\lemmon_slider\lemmon-slider.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/lemmon_slider/style.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\lemmon_slider\style.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/js/scripts.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/wowslider_3.4/engine1/arrows.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\wowslider_3.4\engine1\arrows.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/wowslider_3.4/engine1/bullet.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\wowslider_3.4\engine1\bullet.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/wowslider_3.4/engine1/script.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\wowslider_3.4\engine1\script.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/js/wowslider_3.4/engine1/style.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\wowslider_3.4\engine1\style.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/js/wowslider_3.4/engine1/triangle.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\wowslider_3.4\engine1\triangle.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/js/wowslider_3.4/engine1/wowslider.js
+File Name: C:\Downloaded Web Sites\www.qcscert.com\js\wowslider_3.4\engine1\wowslider.js
+Content Type: application/javascript
+
+Uri: https://www.qcscert.com/templates/qcs/footer.css?v=1.2
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\footer.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/form.css?v=1.2
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\form.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/general.css?v=1.2
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\general.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/images/back-nav-over.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\back-nav-over.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/back.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\back.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/templates/qcs/images/bg_btn.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\bg_btn.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/box-1.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\box-1.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/bread_next.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\bread_next.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/btn-1.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\btn-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/templates/qcs/images/btn-2.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\btn-2.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/bullet.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\bullet.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/content_box_bottom_shadow.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\content_box_bottom_shadow.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/download.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\download.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/error.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\error.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/footer_bg_top.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\footer_bg_top.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/haberler.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\haberler.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/templates/qcs/images/icon-1.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\icon-1.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/icon-2.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\icon-2.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/icon-3.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\icon-3.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/icon-4.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\icon-4.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/kutu_shadow.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\kutu_shadow.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/left_menu_bg.jpg
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\left_menu_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.qcscert.com/templates/qcs/images/logo.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\logo.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/menu-bg.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\menu-bg.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/tel.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\tel.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/title4.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\title4.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/title5.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\title5.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/valid.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\valid.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/images/yazi_logo32.png
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\images\yazi_logo32.png
+Content Type: image/png
+
+Uri: https://www.qcscert.com/templates/qcs/menu.css?v=1.2
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\menu.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/menu/css/style.css
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\menu\css\style.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/reset.css?v=1.2
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\reset.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/style.css?v=1.5
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\style.css
+Content Type: text/css
+
+Uri: https://www.qcscert.com/templates/qcs/style_bread.css?v=1.2
+File Name: C:\Downloaded Web Sites\www.qcscert.com\templates\qcs\style_bread.css
+Content Type: text/css
+

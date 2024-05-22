@@ -1,0 +1,45 @@
+
+
+
+
+
+
+input.form2, textarea.form2, select.form2 {
+	width:100px;
+	padding: 5px;
+	/*color: #000; */
+	background-color:#fff;
+	border:1px solid #ddd;
+	margin: 2px 0; 
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.sert_form{
+	border:1px #dddddd solid;
+	padding: 10px;
+	width: 360px;
+	margin-top: 10px;
+	background-color: #F4F4F4;
+}
+
+.sert_img {
+	float: left;
+	
+	font-family: arial;
+	width: 200px;
+	text-align: center;
+	line-height: 20px;
+}
+
+.sert_form #ajax_loading{
+	display:none;
+}
+
+.required2 {
+    color: #FF0000;
+    font-weight: bold;
+}
+label.error{color: #FF0000; padding-top:0px; padding-left:0px; width:auto;font-size:11px;display:block;clear:both;}

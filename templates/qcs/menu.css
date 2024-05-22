@@ -1,0 +1,126 @@
+/*-----------------------------------------------------------------------------------*/
+/*	MENU
+/*-----------------------------------------------------------------------------------*/
+
+.menu {
+	width: 1170px;
+	margin:0px 0 0 0;
+	padding: 0;
+	z-index: 1000;
+	position: relative;
+	float:left;
+	/* background: transparent url(images/back-nav.png) no-repeat -3px 0; */
+	background-color:#404099;
+	height: 44px;
+	
+}
+
+.menu ul {
+	margin: auto;
+	list-style-type: none;
+	font-style: normal;
+	letter-spacing: normal;
+	
+	position:relative;
+	float:none;
+	margin: 0 auto;
+	display: table;
+	table-layout: fixed;
+}
+.menu ul li {
+	/*margin: 0 12px 0 0;*/
+	position: relative;
+	display: inline;
+	float: left;
+	padding: 0;
+	background: none;	
+}
+
+.menu ul li a {
+	display: inline-block;
+	width:auto;
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	/*padding: 8px 14px 1px 14px;*/
+	padding: 0px 24px;
+	background-color: none;
+	font-size:15px;
+	line-height:44px;
+	text-align:center;
+}
+.menu ul li a#menu_last {
+	border-right:none;
+}
+/* Webkit Fix */
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+.menu ul li a {}
+}
+
+* html .menu ul li a {
+	display: inline-block;
+}
+
+.menu ul li a.active {
+	color: #ccc;
+}
+.menu ul li a.selected {
+	background: none;
+	color: #ccc;
+}
+.menu ul li a:hover {
+	background-image:url(images/back-nav-over.png);
+	background-repeat:no-repeat;
+	background-position:center 15px;
+	color:#ccc;
+}
+.menu ul li:hover {
+		
+}
+.menu ul li ul li:hover {
+	background: #e9e9e9;	
+}
+.menu ul li ul li{
+	height:auto;
+	margin-right:0;
+	
+}
+.menu ul li ul li a:hover {
+	
+	color: #000;
+}
+.menu ul li ul {
+	position: absolute;
+	display: none;
+	visibility: hidden;
+	padding: 0;
+	background:#ff7872;
+	
+}
+.menu ul li ul li {
+	display: list-item;
+	float: none;
+	width: 240px;
+	padding: 0 0px;
+	background-color: #f9b000;
+	margin-left:0;
+	border-bottom:1px solid #da9c05;
+	border-top:1px solid #bd8705;
+	
+}
+.menu ul li ul li:first-child a {
+	border: none;
+}
+.menu ul li ul li ul {
+	top: 0;
+}
+.menu ul li ul li a {
+	margin: 0;
+	border: none;
+	width: 240px;
+	line-height: 1;
+	text-align:left;
+	font-size: 15px;
+	line-height:44px;
+	font-weight:normal;
+}
